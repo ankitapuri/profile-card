@@ -49,6 +49,7 @@ html {
   
   p {
     margin: 0px;
+    color: #6a6c74;
   }
   
   .profile-card {
@@ -73,12 +74,11 @@ html {
   }
   
   .profile-card header {
-    width: 179px;
+    width: 279px;
     height: 300px;
     padding: 40px 20px 30px 20px;
     display: block;
     float: left;
-    border-right: 2px dashed #EEEEEE;
     background: #FFFFFF;
     color: #000000;
     margin-top: 50px;
@@ -89,7 +89,7 @@ html {
   }
   
   .profile-card header h1 {
-    color: #FF5722;
+    color: #e25328;
   }
   
   .profile-card header a {

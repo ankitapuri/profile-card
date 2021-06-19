@@ -74,7 +74,7 @@ html {
   
   .profile-card header {
     width: 179px;
-    height: 280px;
+    height: 300px;
     padding: 40px 20px 30px 20px;
     display: block;
     float: left;
@@ -120,7 +120,8 @@ html {
   }
   
   .profile-card header a > img {
-    width: 120px;
+    width: 100px;
+    height: 130px;
     max-width: 100%;
     -webkit-border-radius: 50%;
     border-radius: 50%;
@@ -327,8 +328,8 @@ html {
       -webkit-border-radius: 4px;
     }
     100% {
-      width: 440px;
-      height: 280px;
+      width: 500px;
+      height: 300px;
       background: #FFFFFF;
       -webkit-border-radius: 4px;
     }
@@ -342,8 +343,8 @@ html {
       border-radius: 4px;
     }
     100% {
-      width: 440px;
-      height: 280px;
+      width: 500px;
+      height: 300px;
       background: #FFFFFF;
       border-radius: 4px;
     }
@@ -477,8 +478,8 @@ html {
         -webkit-border-radius: 4px;
       }
       100% {
-        width: 280px;
-        height: 440px;
+        width: 300px;
+        height: 500px;
         background: #FFFFFF;
         -webkit-border-radius: 4px;
       }
@@ -491,8 +492,8 @@ html {
         border-radius: 4px;
       }
       100% {
-        width: 280px;
-        height: 440px;
+        width: 300px;
+        height: 500px;
         background: #FFFFFF;
         border-radius: 4px;
       }
